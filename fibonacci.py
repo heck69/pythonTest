@@ -14,5 +14,5 @@ def fibonacci(n):
               
     
 
-x = int(input("Enter a non-negative integer: "))
+x = int(input("Enter number of terms: "))
 result = fibonacci(x)
